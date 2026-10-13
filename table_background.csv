@@ -1,0 +1,4 @@
+horizon_days,count_threshold,count_rate,count_median_day,prevalence_rate,growth_rate_rule
+120,5,0.156,99.0,0.0,0.0
+300,5,0.87,175.0,0.0,0.0
+300,20,0.0,,0.0,0.0

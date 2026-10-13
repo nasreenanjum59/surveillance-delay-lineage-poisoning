@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Surveillance delay under targeted lineage poisoning: simulation code and results"
+type: software
+version: "1.0.0"
+date-released: "2026-10-13"
+license: MIT
+authors:
+  - family-names: Anjum
+    given-names: Nasreen
+    orcid: "https://orcid.org/0000-0002-7126-2177"
+    affiliation: "University of Portsmouth"
+keywords:
+  - genomic surveillance
+  - data poisoning
+  - SARS-CoV-2
+  - lineage classification
+  - detection delay

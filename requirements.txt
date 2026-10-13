@@ -1,0 +1,8 @@
+# Tested: Python 3.12 and 3.13; numpy 1.26 to 2.4.4 give bit-identical tables.
+# numpy 2.5 changed its random streams, so the simulated values shift within
+# Monte Carlo error (see README, "Reproducibility"). Hence the upper bound.
+numpy>=1.26,<2.5
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.7
+jinja2>=3.0
