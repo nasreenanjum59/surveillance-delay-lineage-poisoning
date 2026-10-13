@@ -1,0 +1,4 @@
+rule,analytic_days,median_days,iqr_low,iqr_high,never_detected,size_ratio,extra_infections
+count,7.11,7.0,6.0,9.0,0.0,5.21,2420
+prevalence,7.11,7.0,7.0,7.0,0.0,5.0,78301
+growth,7.11,7.0,7.0,7.0,0.0,5.04,18420

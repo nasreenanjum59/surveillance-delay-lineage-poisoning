@@ -1,0 +1,7 @@
+series,rule,detection_week,error_days
+"submission, uncensored",count,2022-09-12,-46
+"submission, uncensored",prevalence,2022-09-26,-32
+"submission, uncensored",growth,2022-09-19,-39
+"submission, censored",count,2022-10-24,-4
+"submission, censored",prevalence,2022-10-31,3
+"submission, censored",growth,2022-10-31,3

@@ -1,0 +1,5 @@
+censoring,date,bq1_records_excluded,count_error_days,prevalence_error_days,growth_error_days
+None,,0,-46,-32,-39
+"Designation commit, 2 Sep",2022-09-02,0,-46,-32,-32
+"Pango v1.15, 3 Oct",2022-10-03,88,-4,3,3
+"pangolin-data v1.15.1, 10 Oct",2022-10-10,88,-4,3,3
